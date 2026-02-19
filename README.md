@@ -1,4 +1,4 @@
-\# MPK-AI: Internal Audit Assistant (Source Code Only)
+\# MPK-AI: Internal Artificial Intelligence (Source Code Only)
 
 
 
