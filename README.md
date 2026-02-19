@@ -2,11 +2,11 @@
 
 
 
-MPK-AI adalah sistem asisten audit internal berbasis \*\*Local Large Language Model (LLM)\*\* dengan pendekatan \*\*Retrieval-Augmented Generation (RAG)\*\*. Proyek ini dikembangkan selama kegiatan magang di PT Mohairson Pawan Khatulistiwa (MPK).
+MPK-AI adalah sistem asisten internal berbasis Local Large Language Model (LLM) dengan pendekatan Retrieval-Augmented Generation (RAG). Proyek ini dikembangkan selama kegiatan magang di PT Mohairson Pawan Khatulistiwa (MPK).
 
 
 
-Sistem ini dirancang untuk otomasi pencarian informasi, ekstraksi data dokumen, serta tanya-jawab berbasis basis data internal perusahaan secara \*\*offline\*\*, menjaga kerahasiaan data tetap berada di infrastruktur lokal.
+Sistem ini dirancang untuk otomasi pencarian informasi, ekstraksi data dokumen, serta tanya-jawab berbasis basis data internal perusahaan secara offline, menjaga kerahasiaan data tetap berada di infrastruktur lokal.
 
 
 
@@ -18,15 +18,15 @@ Sistem ini dirancang untuk otomasi pencarian informasi, ekstraksi data dokumen, 
 
 
 
-\- \*\*Offline AI Assistant\*\*: Menggunakan Local LLM (format GGUF) untuk privasi data maksimal.
+1\. Offline: Menggunakan Local LLM (format GGUF) untuk privasi data maksimal.
 
-\- \*\*RAG-based QA\*\*: Menjawab pertanyaan berdasarkan konteks dokumen spesifik, bukan sekadar basis pengetahuan umum model.
+2\. RAG-based QA: Menjawab pertanyaan berdasarkan konteks dokumen spesifik, bukan sekadar basis pengetahuan umum model.
 
-\- \*\*PDF Parsing Pipeline\*\*: Integrasi ekstraksi teks otomatis dari dokumen audit.
+3\. PDF Parsing Pipeline: Integrasi ekstraksi teks otomatis dari dokumen audit.
 
-\- \*\*Interactive Dashboard\*\*: Interface pengguna yang intuitif dibangun dengan Streamlit.
+4\. Interactive Dashboard: Interface pengguna yang intuitif dibangun dengan Streamlit.
 
-\- \*\*Audit-Ready Logging\*\*: Output jawaban yang terstruktur untuk kebutuhan dokumentasi audit.
+5\. History-Ready Logging: Output jawaban yang terstruktur untuk kebutuhan dokumentasi.
 
 
 
