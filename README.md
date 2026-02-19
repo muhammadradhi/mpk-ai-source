@@ -66,7 +66,7 @@ mpk-ai-source/
 
 
 
-\*\*Penting:\*\* Repository ini hanya berisi \*source code\* inti untuk tujuan dokumentasi akademik. Sesuai dengan kebijakan kerahasiaan perusahaan (NDA), repositori ini \*\*TIDAK\*\* menyertakan:
+PENTING: Repository ini hanya berisi \*source code\* inti untuk tujuan dokumentasi akademik. Sesuai dengan kebijakan kerahasiaan perusahaan (NDA), repositori ini \*\*TIDAK\*\* menyertakan:
 
 
 
@@ -90,11 +90,11 @@ Folder `data/` dan `models/` hanya disediakan sebagai placeholder struktur siste
 
 
 
-\* \*\*Python\*\*: 3.9 atau lebih tinggi
+1\. Python: 3.9 atau lebih tinggi
 
-\* \*\*Runtime\*\*: Ollama (untuk menjalankan LLM lokal)
+2\. Runtime: Ollama (untuk menjalankan LLM lokal)
 
-\* \*\*Library Utama\*\*: `streamlit`, `llama-index`, `pypdf`
+3\. Library Utama: `streamlit`, `llama-index`, `pypdf`
 
 
 
