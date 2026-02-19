@@ -14,7 +14,7 @@ Sistem ini dirancang untuk otomasi pencarian informasi, ekstraksi data dokumen, 
 
 
 
-\## ✨ Fitur Utama
+\## Fitur Utama
 
 
 
@@ -34,7 +34,7 @@ Sistem ini dirancang untuk otomasi pencarian informasi, ekstraksi data dokumen, 
 
 
 
-\## 📁 Struktur Proyek
+\## Struktur Proyek
 
 
 
@@ -62,7 +62,7 @@ mpk-ai-source/
 
 
 
-\## 🔒 Keamanan \& Kerahasiaan Data
+\## Keamanan \& Kerahasiaan Data
 
 
 
@@ -86,7 +86,7 @@ Folder `data/` dan `models/` hanya disediakan sebagai placeholder struktur siste
 
 
 
-\## 🛠️ Persyaratan Sistem
+\## Persyaratan Sistem
 
 
 
@@ -102,7 +102,7 @@ Folder `data/` dan `models/` hanya disediakan sebagai placeholder struktur siste
 
 
 
-\## 🚀 Cara Menjalankan
+\## Cara Menjalankan
 
 
 
@@ -156,7 +156,7 @@ streamlit run app.py
 
 
 
-\## 💡 Tips Tambahan
+\## Tips Tambahan
 
 
 
@@ -180,11 +180,11 @@ pip freeze > requirements.txt
 
 
 
-\## 👤 Author
+\## Author
 
 
 
-Developed by \*\*Muhammad Radhi\*\*
+Developed by Muhammad Radhi
 
 Internship Project – PT Mohairson Pawan Khatulistiwa (MPK)
 
