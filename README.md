@@ -106,7 +106,7 @@ Folder `data/` dan `models/` hanya disediakan sebagai placeholder struktur siste
 
 
 
-1\. \*\*Clone Repository\*\*
+1\. Clone Repository
 
 
 
@@ -120,7 +120,7 @@ cd mpk-ai-source
 
 
 
-2\. \*\*Instalasi Dependency\*\*
+2\. Instalasi Dependency
 
 
 
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 
 
 
-3\. \*\*Persiapkan Model\*\*
+3\. Persiapkan Model
 
 
 
@@ -140,7 +140,7 @@ Pastikan Ollama sudah terinstal dan model yang didefinisikan di `Modelfile.txt` 
 
 
 
-4\. \*\*Jalankan Aplikasi\*\*
+4\. Jalankan Aplikasi
 
 
 
@@ -169,15 +169,6 @@ streamlit run app.py
 pip freeze > requirements.txt
 
 ```
-
-
-
-\* Jika memungkinkan (tanpa melanggar NDA), tambahkan screenshot UI dengan data dummy agar repository lebih menarik.
-
-
-
----
-
 
 
 \## Author
