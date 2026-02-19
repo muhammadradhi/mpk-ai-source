@@ -66,7 +66,7 @@ mpk-ai-source/
 
 
 
-PENTING: Repository ini hanya berisi \*source code\* inti untuk tujuan dokumentasi akademik. Sesuai dengan kebijakan kerahasiaan perusahaan (NDA), repositori ini \*\*TIDAK\*\* menyertakan:
+PENTING: Repository ini hanya berisi source code inti untuk tujuan dokumentasi akademik. Sesuai dengan kebijakan kerahasiaan perusahaan (NDA), repositori ini TIDAK menyertakan:
 
 
 
